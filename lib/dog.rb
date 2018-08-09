@@ -6,5 +6,3 @@ class Dog
 end 
 end 
 
-bark = Dog.new
-sit = Dog.new

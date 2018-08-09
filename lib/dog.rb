@@ -1,4 +1,6 @@
 # dog.rb
-class Dog 
-
+class Dog(bark, sit)
+  @bark = bark 
+  @sit = sit
+  @
 end 

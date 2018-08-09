@@ -5,3 +5,5 @@ class Dog
   @sit = sit
 end 
 
+bark = Dog.new
+sit = Dog.new
